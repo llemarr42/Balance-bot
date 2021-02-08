@@ -1,2 +1,2 @@
-# Balance-bot
+# PID Balance-bot
 ## Description
