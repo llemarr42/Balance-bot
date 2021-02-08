@@ -1,2 +1,2 @@
 # Balance-bot
-## Discription
+## Description
