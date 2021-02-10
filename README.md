@@ -11,6 +11,20 @@ This project uses PID control to tilt a platform in order to keep a ball in the 
 
 ## Pseudo Code
 ```python
+// have a set position
+// error or an if moved from position it brings it back
+// input & output
+// distance
+// 
+
+import board
+import neopixel
+import time
+import servo
+from adafruit_hcsr04 import HCSR04
+pip install simple-pid
+from simple_pid import PID
+sonar = adafruit_hcsr04.HCSR
 
 
 ```
