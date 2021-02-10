@@ -10,3 +10,7 @@ This project uses PID control to tilt a platform in order to keep a ball in the 
 
 
 ## Pseudo Code
+```python
+
+
+```
