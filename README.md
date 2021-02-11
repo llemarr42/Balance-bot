@@ -1,6 +1,6 @@
 # PID Balance-bot
 ## Description
-This project uses PID control to tilt a platform in order to keep a ball in the center even with outside forces moving the ball. PID control reads the data and if there is an error it works it out back to normal, in this project there will be a ball on a beam with a set position so it can balance, if the ball moves from the it's position the beam will reset it. Thorugh coding with Python and PID, disigning,and wiring we will reach our final project, the Balance Bot.
+This project uses PID control to tilt a platform in order to keep a ball in the center even with outside force moving the ball.
 
 ## Evidence
 [Our planning document](https://docs.google.com/document/d/1fVeS6Nz3x-aw5kM-pLlMPw-Nbu9bjymMA8uOpB1ZbKA/edit?usp=sharing)
@@ -31,3 +31,4 @@ sonar = adafruit_hcsr04.HCSR
 
 ```
 ## Reflection
+We learned what a PID is and how to use it. A PID Works by giving it a set goal and then an input and the PID will change the output by a percentage. Then it will compare to the goal and if it has not met the goal then it will move the output by the percentage. This repeats really fast until the goal and input match.  
