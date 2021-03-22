@@ -16,8 +16,7 @@ First, we started with the platform which would hold our ball, but we had to see
 
 <img src="RoughDraftBeam.png" alt="The Platform Idea" width="200">            <img src="ThePlatform.png" alt="The Platform" width="200">
 
-[Onshape rough draft](https://cvilleschools.onshape.com/documents/6021407610dea9eef68c77cb/w/05ab5f2c8939c789ea2dda76/e/d3010f2dd1c4c5ebb5aa311d)
-
+After the platform came our other parts which included the ball, the distance sensor holder, etc.
 ## Pseudo Code
 ```python
 // have a set position
