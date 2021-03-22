@@ -12,7 +12,8 @@ After the Research, we had to put together a rough draft of what our project wou
 [Onshape rough draft](https://cvilleschools.onshape.com/documents/6021407610dea9eef68c77cb/w/05ab5f2c8939c789ea2dda76/e/d3010f2dd1c4c5ebb5aa311d)
 
 
-First, we started with the platform which would hold our ball, but we had to see which design would work better in the whole project. After, 3 designs we came up with the the platform final idea whose picture is shown on bottom left. But, then we had to make modifications to it in order for the Ultrasonic Sensor to be a part of it which led us to the platform shown at the bottom right.
+First, we started with the platform which would hold our ball, but we had to see which design would work better in the whole project. After, 3 designs we came up with the the platform final idea whose picture is shown on bottom left. But, then we had to make modifications to it in order for it to attach to the beam and the Ultrasonic Sensor to be a part of it which led us to the platform shown at the bottom right.
+
 <img src="RoughDraftBeam.png" alt="The Platform Idea" width="200">            <img src="ThePlatform.png" alt="The Platform" width="200">
 
 [Onshape rough draft](https://cvilleschools.onshape.com/documents/6021407610dea9eef68c77cb/w/05ab5f2c8939c789ea2dda76/e/d3010f2dd1c4c5ebb5aa311d)
