@@ -16,7 +16,16 @@ First, we started with the platform which would hold our ball, but we had to see
 
 <img src="RoughDraftBeam.png" alt="The Platform Idea" width="200">            <img src="ThePlatform.png" alt="The Platform" width="200">
 
-After the platform came our other parts which included the ball, the distance sensor holder, etc.
+After the platform came our other parts which included the ball, the distance sensor holder, the beam, and the joint.
+
+<img src="Ball.png" alt="The Ball" width="200">            <img src="DistanceSensorHolder.png" alt="The Distance Sensor Holder" width="200">
+
+<img src="Beam.png" alt="The Beam" width="200">            <img src="Thing.png" alt="The Joint" width="200">
+
+Then we put evertyhing together into our Rough Draft Assembly.
+
+<img src="RoughAssembly.png" alt="The Rough Draft Assembly" width="300"> 
+
 ## Pseudo Code
 ```python
 // have a set position
