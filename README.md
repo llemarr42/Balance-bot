@@ -26,6 +26,8 @@ Then we put evertyhing together into our Rough Draft Assembly.
 
 <img src="RoughAssembly.png" alt="The Rough Draft Assembly" width="300"> 
 
+Obstacles in this process: The Ball and the Distance Sensor Holder were pretty 
+
 ## Pseudo Code
 ```python
 // have a set position
